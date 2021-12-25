@@ -21,4 +21,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: 01011249517/c++:latest
+          tags: 01011249517/myimage-github-project:latest
